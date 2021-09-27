@@ -1,0 +1,11 @@
+ filename = input("enter the  filename: " )
+ 
+file =filename.split(".")
+print ("extension of the file is : " + file[-1])
+
+
+output is =
+ 
+ enter the filename:
+ c:\\users\\asus\\ownloads\\functions.text
+ extension of the file name is: txt
